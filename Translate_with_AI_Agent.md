@@ -1,5 +1,5 @@
 # Translate with AI Agent
-Recently I translated a novel-length story with the help of an AI Agent (you can read my workflow [here](https://gist.github.com/Gojob2987/c60efcef24b47e18b1c9bdabf12d4381)). The original story was written by [qntm](https://qntm.org/) in English. I retold the story in Chinese (my mother language). I'm moderately confident that my translation was done properly, that the story I told in Chinese is faithful to the original story; I'm absolutely sure that the original story is a masterpiece of science fiction, and it is a great joy to witness the publication of such a story.
+Recently I translated a novel-length story with the help of an AI Agent (you can read my workflow [here](https://github.com/Gojob2987/translate-with-ai-agent/blob/main/translation-workflow-public.md)). The original story was written by [qntm](https://qntm.org/) in English. I retold the story in Chinese (my mother language). I'm moderately confident that my translation was done properly, that the story I told in Chinese is faithful to the original story; I'm absolutely sure that the original story is a masterpiece of science fiction, and it is a great joy to witness the publication of such a story.
 
 I am a software engineer. I started the translation project as a hobby, one seeded at an early stage of life, lying dormant for quite some years, waiting to be activated. This past month I had more free time than before, and I attempted to seriously incorporate AI Agent into my daily workflow, not for the first time. Previously I failed, mostly because I didn't know what to do with the Agent once I set it up.
 
@@ -95,7 +95,7 @@ I realized writing an article is different from translating. In translation ther
 # Reference
 - qntm - author of "There Is No Antimemetic Division": https://qntm.org/
 - Karpathy LLM Wiki: https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f
-- my translation workflow: https://gist.github.com/Gojob2987/c60efcef24b47e18b1c9bdabf12d4381
+- my translation workflow: https://github.com/Gojob2987/translate-with-ai-agent/blob/main/translation-workflow-public.md
 ---
 
 © 2026 Gojob. This article is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — you are free to share and adapt it, with attribution to the author.
